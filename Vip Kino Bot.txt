@@ -1,0 +1,41 @@
+Vip Kino Bot Maxfiylik Siyosati
+Oxirgi yangilanish: [Bugungi Sana]
+
+1. Qanday ma’lumotlarni yig‘amiz?
+Vip Kino Bot hech qanday shaxsiy ma’lumotlarni yig‘maydi, saqlamaydi va uchinchi shaxslarga uzatmaydi.
+
+2. Ma’lumotlardan foydalanish
+Bot faqat foydalanuvchining buyruqlariga javob beradi va hech qanday shaxsiy ma’lumotni qayd etmaydi.
+Agar foydalanuvchi o‘z xohishi bilan ma’lumot bersa (masalan, qidiruv so‘rovlari), bu faqat xizmatni yaxshilash uchun ishlatiladi.
+3. Uchinchi tomon xizmatlari
+Biz hech qanday uchinchi tomon xizmatlarini ishlatmaymiz, shuning uchun foydalanuvchi ma’lumotlari boshqa platformalar bilan bo‘lishilmaydi.
+
+4. Xavfsizlik
+Foydalanuvchilarning maxfiyligi biz uchun muhim. Hech qanday ma’lumot saqlanmagani uchun, ma’lumotlar xavfsizligi xavfi mavjud emas.
+
+5. Siyosatga o‘zgarishlar
+Biz ushbu maxfiylik siyosatini istalgan vaqtda o‘zgartirishimiz mumkin. Har qanday o‘zgarishlar ushbu hujjatda aks ettiriladi.
+
+6. Bog‘lanish
+Agar savollaringiz bo‘lsa, biz bilan Telegram orqali bog‘lanishingiz mumkin.
+
+Privacy Policy for Vip Kino Bot
+Last Updated: [Today's Date]
+
+1. What Information Do We Collect?
+Vip Kino Bot does not collect, store, or share any personal data.
+
+2. How We Use Data
+The bot only responds to user commands and does not log any personal information.
+If users voluntarily provide information (such as search queries), it is only used to improve the service.
+3. Third-Party Services
+We do not use any third-party services, so user data is not shared with any external platforms.
+
+4. Security
+User privacy is important to us. Since no data is stored, there is no risk of data breaches.
+
+5. Changes to This Policy
+We may update this privacy policy at any time. Any changes will be reflected in this document.
+
+6. Contact
+If you have any questions, you can contact us via Telegram.
