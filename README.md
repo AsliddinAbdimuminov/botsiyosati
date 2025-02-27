@@ -1,0 +1,2 @@
+# botsiyosati
+botsiyosati
